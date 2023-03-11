@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ActixandSql\target\release\deps\concurrent_queue-83ca929724b07d26.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\bounded.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\single.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\unbounded.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\sync.rs
+
+C:\Users\user\Desktop\ActixandSql\target\release\deps\libconcurrent_queue-83ca929724b07d26.rlib: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\bounded.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\single.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\unbounded.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\sync.rs
+
+C:\Users\user\Desktop\ActixandSql\target\release\deps\concurrent_queue-83ca929724b07d26.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\bounded.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\single.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\unbounded.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\sync.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\bounded.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\single.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\unbounded.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\concurrent-queue-2.1.0\src\sync.rs:

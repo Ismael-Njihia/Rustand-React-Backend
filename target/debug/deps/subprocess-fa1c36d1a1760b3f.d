@@ -1,0 +1,12 @@
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\subprocess-fa1c36d1a1760b3f.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs
+
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\libsubprocess-fa1c36d1a1760b3f.rlib: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs
+
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\subprocess-fa1c36d1a1760b3f.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs:

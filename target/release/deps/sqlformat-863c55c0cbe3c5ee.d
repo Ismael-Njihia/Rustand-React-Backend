@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ActixandSql\target\release\deps\sqlformat-863c55c0cbe3c5ee.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\formatter.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\indentation.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\inline_block.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\params.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\tokenizer.rs
+
+C:\Users\user\Desktop\ActixandSql\target\release\deps\libsqlformat-863c55c0cbe3c5ee.rlib: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\formatter.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\indentation.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\inline_block.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\params.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\tokenizer.rs
+
+C:\Users\user\Desktop\ActixandSql\target\release\deps\sqlformat-863c55c0cbe3c5ee.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\formatter.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\indentation.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\inline_block.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\params.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\tokenizer.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\formatter.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\indentation.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\inline_block.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\params.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\sqlformat-0.2.1\src\tokenizer.rs:

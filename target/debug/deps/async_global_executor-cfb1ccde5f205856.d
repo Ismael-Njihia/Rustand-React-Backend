@@ -1,0 +1,10 @@
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\async_global_executor-cfb1ccde5f205856.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\config.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\executor.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\init.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\reactor.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\threading.rs
+
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\async_global_executor-cfb1ccde5f205856.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\config.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\executor.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\init.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\reactor.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\threading.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\config.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\executor.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\init.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\reactor.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-global-executor-2.3.1\src\threading.rs:

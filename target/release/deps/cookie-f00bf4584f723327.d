@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\ActixandSql\target\release\deps\cookie-f00bf4584f723327.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs
+
+C:\Users\user\Desktop\ActixandSql\target\release\deps\libcookie-f00bf4584f723327.rlib: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs
+
+C:\Users\user\Desktop\ActixandSql\target\release\deps\cookie-f00bf4584f723327.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\builder.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\parse.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\jar.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\delta.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\draft.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.16.2\src\expiration.rs:

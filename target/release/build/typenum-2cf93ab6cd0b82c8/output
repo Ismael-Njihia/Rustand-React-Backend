@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\user\Desktop\ActixandSql\target\release\build\typenum-2cf93ab6cd0b82c8\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\user\Desktop\ActixandSql\target\release\build\typenum-2cf93ab6cd0b82c8\out\op.rs

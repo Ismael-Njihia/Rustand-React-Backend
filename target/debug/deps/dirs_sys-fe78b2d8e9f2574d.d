@@ -1,0 +1,7 @@
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\dirs_sys-fe78b2d8e9f2574d.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.7\src\lib.rs
+
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\libdirs_sys-fe78b2d8e9f2574d.rlib: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.7\src\lib.rs
+
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\dirs_sys-fe78b2d8e9f2574d.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.7\src\lib.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\dirs-sys-0.3.7\src\lib.rs:

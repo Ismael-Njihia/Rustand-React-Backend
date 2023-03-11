@@ -1,0 +1,11 @@
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\async_native_tls-adddcb7ca1b2ad73.rmeta: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\acceptor.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\connector.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\handshake.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\runtime.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\std_adapter.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\tls_stream.rs
+
+c:\Users\user\Desktop\ActixandSql\target\debug\deps\async_native_tls-adddcb7ca1b2ad73.d: C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\lib.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\acceptor.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\connector.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\handshake.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\runtime.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\std_adapter.rs C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\tls_stream.rs
+
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\lib.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\acceptor.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\connector.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\handshake.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\runtime.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\std_adapter.rs:
+C:\Users\user\.cargo\registry\src\github.com-1ecc6299db9ec823\async-native-tls-0.4.0\src\tls_stream.rs:
