@@ -16,12 +16,20 @@ Add The following depedencies to your cargo.toml file
 
 [dependencies]
 actix-cors = "0.6.4"
+    
+    
 actix-files = "0.6.2"
+    
 actix-web = "4.3.0"
+    
 actix-web-actors = "4.2.0"
+    
 dotenv = "0.15.0"
+    
 serde = { version = "1.0.152", features = ["derive"] }
+    
 serde_json = "1.0.93"
+    
 sqlx = { version = "0.6.2", features = ["runtime-async-std-native-tls", "postgres"] }
 
 Create a .env file in the project root directory and add the following variables:
