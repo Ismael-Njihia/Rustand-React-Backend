@@ -2,7 +2,7 @@
 
 Clone this repository to your local machine:
 
-git clone https://github.com/reddangerousFullStack-Web-App-Actix-web-React-PostgreSql-.git
+git clone
 Navigate to the project directory:
 
 cd <repository-name>
